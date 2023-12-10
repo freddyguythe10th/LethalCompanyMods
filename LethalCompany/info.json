@@ -1,0 +1,33 @@
+{
+  "modsTab": [
+    {
+      "tabName": "Lethal Company Mods",
+      "allMods": [
+        {
+          "URL": "<info>",
+          "name": "<My Mods>"
+        },
+        {
+          "URL": "https://github.com/freddyguythe10th/LethalCompanyMods/raw/main/Modding_Tutorial.zip",
+          "name": "Exploding Airhorn"
+        },
+        {
+          "URL": "https://github.com/freddyguythe10th/LethalCompanyMods/raw/main/week_two.zip",
+          "name": "Week 2 Secret ;)"
+        },
+        {
+          "URL": "<info>",
+          "name": "<Others Mods>"
+        },
+        {
+          "URL": "https://github.com/freddyguythe10th/LethalCompanyMods/raw/main/more_company.zip",
+          "name": "More Company"
+        },
+        {
+          "URL": "https://github.com/freddyguythe10th/LethalCompanyMods/raw/main/skinwalkers.zip",
+          "name": "Skin Walkers"
+        }
+      ]
+    }
+  ]
+}
