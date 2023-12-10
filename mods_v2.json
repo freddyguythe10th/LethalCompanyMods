@@ -1,28 +1,28 @@
 {
   "modsTab": [
     {
-      "tabName": "Lethal Company",
+      "tabName": "Levi's Lethal Company Mods",
       "allMods": [
         {
-          "URL": "www.example.com/mod1",
-          "name": "Example Mod 1"
+          "URL": "https://github.com/freddyguythe10th/LethalCompanyMods/raw/main/Modding_Tutorial.zip",
+          "name": "Exploding Airhorn"
         },
         {
-          "URL": "www.example.com/mod2",
-          "name": "Example Mod 2"
+          "URL": "https://github.com/freddyguythe10th/LethalCompanyMods/raw/main/week_two.zip",
+          "name": "Week 2 Seceret ;)"
         }
       ]
     },
     {
-      "tabName": "Test 2",
+      "tabName": "Lethal Company Base",
       "allMods": [
         {
-          "URL": "www.example.com/mod3",
-          "name": "Example Mod 3"
+          "URL": "https://github.com/freddyguythe10th/LethalCompanyMods/raw/main/more_company.zip",
+          "name": "More Company"
         },
         {
-          "URL": "www.example.com/mod4",
-          "name": "Example Mod 4"
+          "URL": "https://github.com/freddyguythe10th/LethalCompanyMods/raw/main/skinwalkers.zip",
+          "name": "Skin Walkers"
         }
       ]
     }
